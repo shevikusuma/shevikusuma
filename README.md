@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8E8ED,45:E8B8C7,100:B76E85&height=180&section=header" />
 
-<img src="https://img.shields.io/badge/✿-SHEVI'S%20DIGITAL%20DIARY-B76E85?style=flat-square" />
+<img src="https://img.shields.io/badge/✿-SHEVI'S%20DIGITAL%20PROJECT-B76E85?style=flat-square" />
 
 # Shevi Kusuma Wardani ♡
 
