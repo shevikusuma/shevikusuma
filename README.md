@@ -11,8 +11,8 @@
 
 *little ideas, carefully built.*
 
-<a href="https://github.com/shevikusuma26">
-<img src="https://img.shields.io/badge/GitHub-shevikusuma26-9D526D?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/shevikusuma">
+<img src="https://img.shields.io/badge/GitHub-shevikusuma-9D526D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/shevi-kusuma-wardani-a8a125333/">
 <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-C58A9D?style=for-the-badge&logo=linkedin&logoColor=white"/>
