@@ -1,57 +1,102 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F3E4E8&height=12&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8E8ED,45:E8B8C7,100:B76E85&height=180&section=header" />
+
+<img src="https://img.shields.io/badge/✿-SHEVI'S%20DIGITAL%20DIARY-B76E85?style=flat-square" />
+
+# Shevi Kusuma Wardani ♡
+
+**Front End | Web Developer | UI/UX | Data Analyst**
+
+*little ideas, carefully built.*
+
+<a href="https://github.com/shevikusuma26">
+<img src="https://img.shields.io/badge/GitHub-shevikusuma26-9D526D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shevi-kusuma-wardani-a8a125333/">
+<img src="https://img.shields.io/badge/LinkedIn-let's%20connect-C58A9D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PORTFOLIO-2026-895765?style=flat-square&labelColor=F3E4E8" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3000&pause=1000&color=B76E85&center=true&vCenter=true&width=500&lines=Designing+with+intention+%E2%99%A1;Building+one+project+at+a+time;Learning+something+new+every+day" />
 
-# SHEVI KUSUMA WARDANI
-
-### Front End · Web Developer · UI/UX · Data Analyst
-
-*Design-minded. Detail-oriented. Always building.*
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3000&pause=1000&color=895765&center=true&vCenter=true&width=550&lines=Building+for+the+web.;Designing+with+intention.;Finding+meaning+in+data." />
-
-<br/>
-
-[GitHub](https://github.com/shevikusuma26)　·　
-[LinkedIn](https://www.linkedin.com/in/shevi-kusuma-wardani-a8a125333/)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=895765&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=E8B8C7&height=3&section=header" />
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## ୨୧ A note about me
+
+Hi, I'm Shevi! I'm an Informatics Management student at Universitas Negeri Surabaya who enjoys creating digital products.
+
+From designing an interface in Figma to building web features and exploring data, I like the process of turning an idea into something people can use.
+
+♡ Currently learning and developing projects  
+♡ Interested in web technologies and UI/UX  
+♡ Exploring SQL, databases, and data analysis  
+♡ Open to internships, freelance projects, and collaborations
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=F6E1E8&height=160&section=header&text=hello,%20world!&fontSize=25&fontColor=9D526D&fontAlignY=48" width="100%"/>
+
+*Informatics Management*  
+Universitas Negeri Surabaya
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-B76E85?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/୨୧-THINGS%20I%20LOVE%20BUILDING-E8B8C7?style=for-the-badge&labelColor=9D526D"/>
+
+</div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td align="center" width="25%">
 
-## A little about me
+<img src="https://img.shields.io/badge/01-9D526D?style=flat-square"/>
 
-I'm Shevi, an Informatics Management student at Universitas Negeri Surabaya.
+**Frontend**
 
-I work across web development, interface design, and data analysis. I like understanding how a product works, how people interact with it, and how thoughtful design can make it better.
-
-Currently exploring new ideas, developing projects, and growing my skills one build at a time.
+Interfaces & responsive layouts
 
 </td>
-<td width="42%" valign="top">
+<td align="center" width="25%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevikusuma26&layout=compact&bg_color=FBF5F6&title_color=895765&text_color=795A64&border_color=E8CDD5&hide_border=false" />
+<img src="https://img.shields.io/badge/02-B76E85?style=flat-square"/>
 
-<br/>
+**Web Development**
 
-<img width="100%" src="https://img.shields.io/badge/BASED_IN-INDONESIA-895765?style=flat-square&labelColor=F3E4E8" />
+Features & applications
 
-<img width="100%" src="https://img.shields.io/badge/FOCUS-DIGITAL%20PRODUCTS-895765?style=flat-square&labelColor=F3E4E8" />
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/03-C58A9D?style=flat-square"/>
+
+**UI/UX Design**
+
+Flows & prototypes
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/04-D8A8B8?style=flat-square"/>
+
+**Data Analysis**
+
+SQL & data exploration
 
 </td>
 </tr>
@@ -61,9 +106,11 @@ Currently exploring new ideas, developing projects, and growing my skills one bu
 
 <div align="center">
 
-## THE TOOLKIT
+## ୨୧ THE LITTLE TOOLBOX
 
-*Tools I use to turn ideas into working products.*
+*My current collection of tools and technologies.*
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python,figma,git,github,vscode&theme=light" />
 
 </div>
 
@@ -71,40 +118,36 @@ Currently exploring new ideas, developing projects, and growing my skills one bu
 <tr>
 <td width="50%" valign="top">
 
-### 01 / Interface & Web
+**01 — Web**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel&theme=light" />
-
-HTML · CSS · JavaScript · PHP · Laravel
+HTML · CSS · JavaScript  
+PHP · Laravel
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / Data & Database
+**02 — Database & Data**
 
-<img src="https://skillicons.dev/icons?i=mysql,python&theme=light" />
-
-MySQL · SQL · Python
+MySQL · SQL · Python  
+Data cleaning · Data visualization
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / UI & UX
+**03 — Design**
 
-<img src="https://skillicons.dev/icons?i=figma&theme=light" />
-
-Wireframing · User Flows · Prototyping
+Figma · Wireframing  
+Prototyping · User flows
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / Workflow
+**04 — Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-
-Git · GitHub · Visual Studio Code
+Git · GitHub · VS Code  
+Documentation · Iteration
 
 </td>
 </tr>
@@ -114,11 +157,11 @@ Git · GitHub · Visual Studio Code
 
 <div align="center">
 
-## SELECTED WORK
+<img src="https://img.shields.io/badge/୨୧-SELECTED%20PROJECTS-B76E85?style=for-the-badge&labelColor=F6E1E8"/>
 
-*A collection of projects, experiments, and things I've built.*
+# Things I've been working on
 
-<img src="https://img.shields.io/badge/PROJECTS-WEB%20%7C%20AI%20%7C%20RESEARCH-895765?style=flat-square&labelColor=F3E4E8" />
+*Every project comes with a new lesson.*
 
 </div>
 
@@ -126,56 +169,56 @@ Git · GitHub · Visual Studio Code
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x260/F3E4E8/895765?text=SAPA-JIWA&font=playfair-display" />
+<img src="https://img.shields.io/badge/01-AI%20%26%20NLP-B76E85?style=flat-square"/>
 
 ### SAPA-JIWA
 
-**AI · NLP · Explainable AI**
-
 A mental health screening project involving PHQ-9, GAD-7, NLP, and explainable AI.
 
-[Explore the source code ↗](https://github.com/shevikusuma26/SAPAJIWA)
+`AI` `NLP` `XAI`
+
+<a href="https://github.com/shevikusuma26/SAPAJIWA">♡ Explore project</a>
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x260/EAD5DC/704956?text=SIMA2024D&font=playfair-display" />
+<img src="https://img.shields.io/badge/02-WEB%20APPLICATION-C58A9D?style=flat-square"/>
 
 ### SIMA2024D
 
-**Web Application · Laravel**
+An academic and administrative information system developed using Laravel.
 
-An academic and administrative information system developed as an informatics project.
+`Laravel` `Web` `Database`
 
-[Explore my repositories ↗](https://github.com/shevikusuma26?tab=repositories)
+<a href="https://github.com/shevikusuma26?tab=repositories">♡ Explore repositories</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x260/E7DCEB/795C82?text=ResearchLens&font=playfair-display" />
+<img src="https://img.shields.io/badge/03-TEXT%20SIMILARITY-D8A8B8?style=flat-square"/>
 
 ### ResearchLens
 
-**Laravel · Cosine Similarity**
+A research discovery project using Laravel and Cosine Similarity.
 
-A research discovery project that uses text similarity to support finding relevant research.
+`Laravel` `Cosine Similarity`
 
-[Explore my repositories ↗](https://github.com/shevikusuma26?tab=repositories)
+<a href="https://github.com/shevikusuma26?tab=repositories">♡ Explore repositories</a>
 
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x260/F5E8E6/895765?text=MORE+IN+PROGRESS&font=playfair-display" />
+<img src="https://img.shields.io/badge/04-PYTHON-9D526D?style=flat-square"/>
 
-### More in progress
+### Java-Trip-Explorer
 
-**Learning · Building · Improving**
+A Python project focused on exploring travel destinations in Java.
 
-Other projects, coursework, and experiments live in my GitHub repositories.
+`Python`
 
-[Browse all projects ↗](https://github.com/shevikusuma26?tab=repositories)
+<a href="https://github.com/shevikusuma26/Java-Trip-Explorer">♡ Explore project</a>
 
 </td>
 </tr>
@@ -183,27 +226,65 @@ Other projects, coursework, and experiments live in my GitHub repositories.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8CDD5&height=1&section=header" />
+<a href="https://github.com/shevikusuma26?tab=repositories">
+<img src="https://img.shields.io/badge/MORE%20PROJECTS%20IN%20MY%20GITHUB-9D526D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## ୨୧ The design corner
+
+I enjoy thinking about how a digital product looks, feels, and works.
+
+My design process includes:
+
+- Understanding the user flow
+- Creating wireframes
+- Designing interfaces in Figma
+- Building interactive prototypes
+- Refining details and usability
+
+</td>
+<td width="50%" valign="top">
+
+## ୨୧ The data corner
+
+I also enjoy working with data and databases.
+
+Things I explore:
+
+- SQL queries and database structures
+- Data cleaning and preparation
+- Exploring patterns in datasets
+- Presenting information clearly
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-## THE GITHUB JOURNAL
+## ୨୧ MY GITHUB CORNER
 
-*An ongoing record of what I build and explore.*
+*An evolving record of my coding journey.*
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shevikusuma26&show_icons=true&rank_icon=github&bg_color=FBF5F6&title_color=895765&text_color=795A64&icon_color=B77C90&border_color=E8CDD5&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shevikusuma26&show_icons=true&rank_icon=github&bg_color=FFF7F9&title_color=9D526D&text_color=795866&icon_color=C58A9D&border_color=E8B8C7"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevikusuma26&layout=compact&langs_count=6&bg_color=FBF5F6&title_color=895765&text_color=795A64&border_color=E8CDD5&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shevikusuma26&layout=compact&langs_count=6&bg_color=FFF7F9&title_color=9D526D&text_color=795866&border_color=E8B8C7"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=shevikusuma26&background=FBF5F6&ring=B77C90&fire=895765&currStreakLabel=895765&sideLabels=795A64&currStreakNum=895765&sideNums=795A64&dates=B99AA5&border=E8CDD5" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shevikusuma26&background=FFF7F9&ring=C58A9D&fire=B76E85&currStreakLabel=9D526D&sideLabels=795866&currStreakNum=9D526D&sideNums=795866&dates=B99AA5&border=E8B8C7"/>
 
 </div>
 
@@ -211,23 +292,25 @@ Other projects, coursework, and experiments live in my GitHub repositories.
 
 <div align="center">
 
-## HAVE SOMETHING IN MIND?
+<img src="https://img.shields.io/badge/୨୧-LET'S%20KEEP%20IN%20TOUCH-E8B8C7?style=for-the-badge&labelColor=9D526D"/>
 
-I'm open to connecting with people, learning together, and exploring interesting projects.
+### Have a project in mind?
+
+I'm happy to connect, exchange ideas, and explore opportunities to build something together.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/shevi-kusuma-wardani-a8a125333/">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-895765?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-9D526D?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/shevikusuma26">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-B77C90?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-C58A9D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*Made with curiosity, coffee, and a little dusty rose.*
+*Same girl, bigger dreams ♡*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8CDD5,50:D6AAB8,100:895765&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6E1E8,50:E8B8C7,100:B76E85&height=130&section=footer"/>
 
 </div>
